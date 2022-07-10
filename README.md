@@ -4,8 +4,15 @@
 * Motivation : Games use maximum feautures and some imaginative angles can be drawn.
 # Features:
 * The Goal to reach 21 by drawing New Card;
+* "START GAME" button renders two random cards and the sum of the two cards
+* "NEW CARD" :- If the goal is not reached we have option to draw new cards
+
 ![image](https://user-images.githubusercontent.com/97438009/178139584-f9222679-c811-4fe3-ac4d-20fb1f9efb40.png)
+#Buttons Disabled
+* Once We start game the START GAME" button gets disabled
 ![image](https://user-images.githubusercontent.com/97438009/178139595-da2ef6fb-4891-4b3a-b7e8-34a44f8a4041.png)
+# "PLAY AGAIN"
+* Target Exceeded::If the sum crosses 21 we get an Option to play again.
 ![image](https://user-images.githubusercontent.com/97438009/178139610-cb0953c7-806a-447f-98ad-1a5062569a2a.png)
 ![image](https://user-images.githubusercontent.com/97438009/178139478-30c05d3f-f6ae-4d13-b8cf-04231f36c64b.png)
 ![image](https://user-images.githubusercontent.com/97438009/178139713-d4db6f3b-c2be-4285-8af8-74cf309b09ae.png)
