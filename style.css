@@ -1,0 +1,47 @@
+
+
+body {
+    background-image: url(./images/green-bg.png);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-size: cover;
+    font-weight: bold;
+    color: #fff;
+    font-size: 1.2rem;
+}
+h1 {
+    font-size: 3rem;
+    color: rgb(230, 164, 0);
+}
+
+button {
+    background: goldenrod;
+    width: 240px;
+    border-radius: 10px ;
+    border: none;
+    color: #016f32;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+    padding-top: 3px ;
+    height: 40px;
+    margin: 20px;
+}
+
+button:hover {
+    transform: scale(.98);
+}
+button:disabled,
+button[disabled]{
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+}
+#message-el {
+    font-style: italic;
+}
+
+.rules-page {
+    color: wheat;
+    font-size: .8rem;
+}

@@ -1,0 +1,53 @@
+body {
+    
+}
+
+
+li {
+    align-items: center;
+    padding: 5px;
+    color: gold;
+    font-size: 1.3rem;
+    font-weight: 500;
+    font-family: 'Courgette', cursive;
+}
+
+.li {
+    /* display: flex;
+    flex-direction: column; */
+    
+    padding-top: 60px;
+    padding-left: 30px;
+    
+    
+}
+
+.container {
+    
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+img {
+    margin-left: 30px;
+    width: 600px;
+    height: 400px;
+}
+
+h3 {
+    height: 35px;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.8rem;
+    background-color: green;
+    color: gold;
+}
+
+.rules {
+    margin-right: 10px;
+    height: 400px;
+    background-image: url(./images/rules.jpg);
+    background-size: cover;
+}
+
+
