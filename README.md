@@ -1,8 +1,9 @@
 # html-css-js-project-boilerplate
 
-Project Title: Black-Jack
-Motivation : Games use maximum feautures and some imaginative angles can be drawn.
-Features: 
+# Project Title: Black-Jack.
+* Motivation : Games use maximum feautures and some imaginative angles can be drawn.
+# Features:
+* The Goal to reach 21 by drawing New Card;
 ![image](https://user-images.githubusercontent.com/97438009/178139584-f9222679-c811-4fe3-ac4d-20fb1f9efb40.png)
 ![image](https://user-images.githubusercontent.com/97438009/178139595-da2ef6fb-4891-4b3a-b7e8-34a44f8a4041.png)
 ![image](https://user-images.githubusercontent.com/97438009/178139610-cb0953c7-806a-447f-98ad-1a5062569a2a.png)
